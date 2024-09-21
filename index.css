@@ -207,3 +207,26 @@ main{
     color: #0057A8;
 }
 
+
+-----------newproduct--------------
+.a{}
+
+
+.new-product {
+    display: flex;
+
+    height: 80vh;
+    padding: 40px;
+    border: 1px solid black;
+}
+
+.extra-shoes{
+    display: flex;
+    width: 80px;
+}
+
+div img {
+    width: 90px;
+    height: auto;
+    border-radius: 20px;
+}
